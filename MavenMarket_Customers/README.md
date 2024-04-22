@@ -18,6 +18,7 @@ Welcome to the MavenMarket Customers Dataset Analysis repository folder! This re
 - **MavenMarket_Customers.csv**: Use this file to access the raw data of MavenMarket Customers for any external analysis or processing.
 
 - **MavenMarket_Customers.xlsx**: This Excel file serves as the main working document for data analysis. It contains cleaned and processed data, along with additional sheets for analysis and visualization.
+- NOTE: Ensure you download and open the file in Excel and not online in order to be able to use the slicers and interact with the dashboard without any hiccups.
 
 - **MavenMarket_Customers Documentation.doc**: Refer to this document for detailed documentation of the analysis process, insights drawn from the dataset, challenges faced, and recommendations for future actions.
 
